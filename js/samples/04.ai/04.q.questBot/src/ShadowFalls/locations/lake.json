@@ -1,0 +1,14 @@
+{
+    "locations": [
+        {
+            "name": "Shadow Falls Mill",
+            "description": "The main source of flour and lumber in the village.",
+            "details": "The main source of flour and lumber in the village, the Shadow Falls Mill is a noisy and productive place, where the villagers and the outsiders can see and buy various products and materials, such as wheat, corn, barley, wood, and charcoal. The miller, Gus, is a hardworking and honest man, who runs and operates his mill with efficiency and care. The mill has a waterwheel, a grinder, a saw, and a warehouse.",
+            "aliases": [
+                "mill",
+                "lumber",
+                "flour"
+            ]
+        }
+    ]
+}

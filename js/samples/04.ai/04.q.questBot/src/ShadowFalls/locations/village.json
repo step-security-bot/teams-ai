@@ -1,0 +1,280 @@
+{
+    "locations": [
+        {
+            "name": "Village Hall",
+            "description": "The center of the village's administration and governance.",
+            "details": "The center of the village's administration and governance, the Village Hall is where the mayor, the council, and the sheriff work and meet. It is also where the villagers gather for important announcements, meetings, and celebrations. The Village Hall has a large hall, a library, a jail, and several offices and storerooms.",
+            "aliases": [
+                "mayor",
+                "jail"
+            ],
+            "people": {
+                "villagers:Eliza": 1.0,
+                "villagers:1": 0.4
+            }
+        },
+        {
+            "name": "Silver Moon Inn",
+            "description": "The largest and most popular inn in the village.",
+            "details": "The largest and most popular inn in the village, the Silver Moon Inn is a cozy and lively place, where travelers and locals can find a warm bed, a hearty meal, and a friendly conversation. The innkeeper, Luna, is a cheerful and helpful woman, who knows many stories and secrets about the village and the surrounding lands. The inn has a common room, a kitchen, a cellar, and several guest rooms.",
+            "aliases": [
+                "inn",
+                "hotel"
+            ],
+            "people": {
+                "villagers:Luna": 1.0,
+                "villagers:Lila": 0.6,
+                "villagers:Leo": 0.6,
+                "villagers:1": 0.8,
+                "villagers:2": 0.6,
+                "villagers:3": 0.4
+            }
+        },
+        {
+            "name": "Iron Hammer",
+            "description": "The main source of metalwork and weaponry in the village.",
+            "details": "The main source of metalwork and weaponry in the village, this forge is a busy and noisy place, where the blacksmith, Rolf, and his apprentices work hard to produce and repair various items, from horseshoes and plows to swords and armor. Rolf is a gruff and stern man, but also a master of his craft and a loyal friend. The forge has a workshop, a furnace, an anvil, and a display room.",
+            "aliases": [
+                "forge",
+                "blacksmith",
+                "smith"
+            ],
+            "people": {
+                "villagers:Rolf": 1.0,
+                "villagers:Rik": 0.6,
+                "villagers:Ria": 0.6,
+                "villagers:1": 0.4
+            }
+        },
+        {
+            "name": "Sun Temple",
+            "description": "The main place of worship and healing in the village.",
+            "details": "The main place of worship and healing in the village, the Sun Temple is a bright and beautiful building, where the priests and priestesses of the Sun God, Sol, offer their prayers and services. The temple is led by the high priest, Lucius, a wise and benevolent man, who is respected and loved by the villagers. The temple has a sanctuary, a chapel, a hospital, and a garden.",
+            "aliases": [
+                "temple",
+                "church",
+                "hospital"
+            ],
+            "people": {
+                "villagers:Lucius": 1.0,
+                "villagers:Dora": 0.6,
+                "villagers:1": 0.6,
+                "villagers:2": 0.5,
+                "villagers:3": 0.4
+            }
+        },
+        {
+            "name": "Sol Market",
+            "description": "The main place of commerce and trade in the village.",
+            "details": "The main place of commerce and trade in the village, Sol Market is a lively and colorful place, where various merchants and vendors sell their goods and wares. The market is open every day, except on Sundays and holidays, and attracts many customers and visitors from near and far. The market has many stalls, carts, and booths, selling everything from food and clothing to books and potions. A large elegant fountain stands at the center of the market.",
+            "aliases": [
+                "market",
+                "bazaar",
+                "square",
+                "merchants"
+            ],
+            "people": {
+                "villagers:Ella": 0.8,
+                "villagers:Omar": 0.8,
+                "villagers:Mara": 0.8,
+                "villagers:Jorah": 0.8,
+                "villagers:Nina": 0.8,
+                "villagers:1": 0.6,
+                "villagers:2": 0.5,
+                "villagers:3": 0.4
+            }
+
+        },
+        {
+            "name": "Academy of Shadows",
+            "description": "The main place of education and learning in the village.",
+            "details": "The main place of education and learning in the village, the Academy of Shadows is a prestigious and renowned institution, where the villagers and the outsiders can study and research various subjects, such as history, magic, art, and science. The academy is run by the headmaster, Professor Alaric, a brilliant and eccentric man, who is fascinated by the mysteries and wonders of the world. The academy has several classrooms, laboratories, libraries, and dormitories.",
+            "aliases": [
+                "academy",
+                "school"
+            ],
+            "people": {
+                "villagers:Alaric": 1.0,
+                "villagers:Marco": 0.6,
+                "villagers:1": 0.3
+            }
+        },
+        {
+            "name": "Shadow Falls Museum",
+            "description": "The main place of preservation and display of the village's heritage and culture.",
+            "details": "The main place of preservation and display of the village's heritage and culture, the Shadow Falls Museum is a fascinating and informative place, where the villagers and the outsiders can see and learn about the artifacts and relics from the past. The museum is curated by the historian, Dr. Selene, a curious and adventurous woman, who is always looking for new discoveries and clues. The museum has several galleries, exhibits, and archives.",
+            "aliases": [
+                "museum",
+                "gallery",
+                "archives"
+            ],
+            "people": {
+                "villagers:Selene": 1.0,
+                "villagers:1": 0.6,
+                "villagers:2": 0.3
+            }
+        },
+        {
+            "name": "Moonlight Theater",
+            "description": "The main place of entertainment and performance in the village.",
+            "details": "The main place of entertainment and performance in the village, the Moonlight Theater is a fun and creative place, where the villagers and the outsiders can enjoy various shows and acts, such as plays, music, comedy, and magic. The theater is managed by the director, Mr. Thespis, a charismatic and flamboyant man, who is always looking for new talent and inspiration. The theater has a stage, a backstage, a dressing room, and a box office. The theater is named after the moon, which casts its silver light over the village and influences the world of Shadow Falls in mysterious ways.",
+            "aliases": [
+                "theater",
+                "stage",
+                "show"
+            ],
+            "people": {
+                "villagers:Thespis": 1.0,
+                "villagers:1": 0.9,
+                "villagers:2": 0.8,
+                "villagers:3": 0.7,
+                "villagers:4": 0.6,
+                "villagers:5": 0.5
+            }
+        },
+        {
+            "name": "Shadow Falls Cemetery",
+            "description": "The main place of burial and remembrance in the village.",
+            "details": "The main place of burial and remembrance in the village, the Shadow Falls Cemetery is a solemn and respectful place, where the villagers and the outsiders can pay their respects and honor their ancestors and loved ones. The cemetery is maintained by the caretaker, Mr. Graves, a quiet and mysterious man, who knows many secrets and stories about the dead. The cemetery has many graves, tombs, statues, and flowers.",
+            "aliases": [
+                "cemetery",
+                "graveyard",
+                "tombs"
+            ],
+            "people": {
+                "villagers:Graves": 1.0,
+                "villagers:1": 0.4,
+                "villagers:2": 0.2
+            }
+        },
+        {
+            "name": "Main Gate",
+            "description": "The main entrance and exit of the village.",
+            "details": "The main entrance and exit of the village, the Main Gate is a sturdy and impressive structure, where the guards and the scouts protect and patrol the village's borders and roads. The gate is commanded by the captain, Sir Leon, a brave and loyal man, who is always ready to defend and serve the village. The gate has a tower, a bridge, a portcullis, and a guardhouse.",
+            "aliases": [
+                "gate",
+                "entrance",
+                "exit"
+            ],
+            "people": {
+                "villagers:Leon": 1.0,
+                "villagers:1": 0.2
+            }
+        },
+        {
+            "name": "Broken Barrel",
+            "description": "A rough and tumble inn where the villagers and the outsiders can find a cheap drink, a hearty meal, and a lively brawl.",
+            "details": "A rough and tumble inn where the villagers and the outsiders can find a cheap drink, a hearty meal, and a lively brawl. The tavern keeper, Burt, is a jovial and talkative man, who knows many rumors and jokes about the village and the surrounding lands, but also has a knack for breaking up fights and mending wounds. The tavern has a bar, a kitchen, a storeroom, and a few guest rooms, all of which bear the marks of frequent damage and repair.",
+            "aliases": [
+                "tavern",
+                "bar",
+                "pub"
+            ],
+            "people": {
+                "villagers:Burt": 1.0,
+                "villagers:1": 0.8,
+                "villagers:2": 0.6,
+                "villagers:3": 0.4
+            }
+
+        },
+        {
+            "name": "The Shadow Falls Stables",
+            "description": "The main source of transportation and animal care in the village.",
+            "details": "The main source of transportation and animal care in the village, the Shadow Falls Stables is a clean and well-organized place, where the villagers and the outsiders can rent or buy various mounts and beasts, such as horses, donkeys, mules, and oxen. The stablemaster, Nelly, is a kind and gentle woman, who loves and treats her animals well. The stables have a barn, a corral, a paddock, and a feed room.",
+            "aliases": [
+                "stable",
+                "barn",
+                "horse",
+                "vet"
+            ],
+            "people": {
+                "villagers:Nelly": 1.0,
+                "villagers:1": 0.4
+            }
+        },
+        {
+            "name": "Shadow Falls Bakery",
+            "description": "The main source of bread and pastries in the village.",
+            "details": "The main source of bread and pastries in the village, the Shadow Falls Bakery is a sweet and delicious place, where the villagers and the outsiders can buy or order various baked goods, such as loaves, rolls, pies, cakes, and cookies. The baker, Ben, is a cheerful and generous man, who makes and shares his creations with passion and skill. The bakery has a shop, a kitchen, an oven, and a pantry.",
+            "aliases": [
+                "bakery",
+                "bread"
+            ],
+            "people": {
+                "villagers:Ben": 1.0,
+                "villagers:1": 0.4
+            }
+        },
+        {
+            "name": "Shadow Falls Apothecary",
+            "description": "The main source of medicine and potions in the village.",
+            "details": "The main source of medicine and potions in the village, the Shadow Falls Apothecary is a dark and mysterious place, where the villagers and the outsiders can buy or request various remedies and concoctions, such as herbs, oils, salves, elixirs, and poisons. The apothecary, Zara, is a cunning and secretive woman, who knows and uses her knowledge of alchemy and magic for good or ill. The apothecary has a counter, a laboratory, a storeroom, and a hidden room.",
+            "aliases": [
+                "apothecary",
+                "pharmacy",
+                "potion"
+            ],
+            "people": {
+                "villagers:Zara": 1.0,
+                "villagers:1": 0.4
+            }
+        },
+        {
+            "name": "Village Fountain",
+            "description": "A marble fountain that stands in the center of the Sol Market.",
+            "details": "A marble fountain that stands in the center of the Sol Market, where the villagers and the outsiders can find and enjoy a refreshing and clean source of water. The fountain is elegant and beautiful, and is decorated with statues and carvings of the Sun God, Sol, and his children, the four seasons. The fountain is also said to grant wishes and luck to those who toss a coin into it.",
+            "aliases": [
+                "fountain"
+            ],
+            "people": {
+                "villagers:1": 0.9,
+                "villagers:2": 0.4
+            }
+        },
+        {
+            "name": "Shadow Falls Library",
+            "description": "A wooden building that stands next to the Shadow Falls Academy.",
+            "details": "A wooden building that stands next to the Shadow Falls Academy, where the villagers and the outsiders can find and read various books and scrolls, covering a wide range of topics and genres, such as history, magic, art, science, fiction, and poetry. The library is quiet and cozy, and is managed by the librarian, Nora, a smart and helpful woman, who loves and collects books.",
+            "aliases": [
+                "library",
+                "book"
+            ],
+            "people": {
+                "villagers:Nora": 1.0,
+                "villagers:1": 0.5,
+                "villagers:2": 0.4
+            }
+        },
+        {
+            "name": "Shadow Park",
+            "description": "A green and open space near the Village Hall",
+            "details": "A green and open space near the Village Hall, where the villagers and the outsiders can find and enjoy a relaxing and fun place to play, picnic, and socialize. The park is lively and charming, and has many features and attractions, such as a pond, a gazebo, a playground, and a statue of the village's founder, Lord Shadow.",
+            "aliases": [
+                "park"
+            ],
+            "people": {
+                "villagers:1": 0.6,
+                "villagers:2": 0.5,
+                "villagers:3": 0.4
+            }
+        },
+        {
+            "name": "Ring of Shadows",
+            "description": "A circular stone arena where the villagers and outsiders mingle and clash in various contests and competitions.",
+            "details": "A circular stone arena where the villagers and outsiders mingle and clash in various contests and competitions, such as wrestling, archery, jousting, and dueling. The ring is a place of excitement and thrill, and is run by the promoter, Rex, a loud and charismatic man, who organizes and announces the events.",
+            "aliases": [
+                "arena",
+                "tournament"
+            ],
+            "people": {
+                "villagers:Rex": 1.0,
+                "villagers:1": 0.9,
+                "villagers:2": 0.8,
+                "villagers:3": 0.7,
+                "villagers:4": 0.6,
+                "villagers:5": 0.5
+            }
+        }
+    ]
+}
