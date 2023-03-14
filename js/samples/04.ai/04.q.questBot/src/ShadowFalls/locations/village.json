@@ -10,6 +10,8 @@
             ],
             "people": {
                 "villagers:Eliza": 1.0,
+                "villagers:Lord Edward": 0.7,
+                "villagers:Leah": 0.5,
                 "villagers:1": 0.4
             }
         },
@@ -25,9 +27,9 @@
                 "villagers:Luna": 1.0,
                 "villagers:Lila": 0.6,
                 "villagers:Leo": 0.6,
-                "villagers:1": 0.8,
-                "villagers:2": 0.6,
-                "villagers:3": 0.4
+                "villagers:Lily": 0.4,
+                "travelers:1": 0.8,
+                "villagers:1": 0.4
             }
         },
         {
@@ -58,9 +60,9 @@
             "people": {
                 "villagers:Lucius": 1.0,
                 "villagers:Dora": 0.6,
-                "villagers:1": 0.6,
-                "villagers:2": 0.5,
-                "villagers:3": 0.4
+                "villagers:Tara": 0.6,
+                "villagers:Zoe": 0.3,
+                "villagers:1": 0.3
             }
         },
         {
@@ -79,6 +81,7 @@
                 "villagers:Mara": 0.8,
                 "villagers:Jorah": 0.8,
                 "villagers:Nina": 0.8,
+                "villagers:Kayla": 0.8,
                 "villagers:1": 0.6,
                 "villagers:2": 0.5,
                 "villagers:3": 0.4
@@ -96,6 +99,7 @@
             "people": {
                 "villagers:Alaric": 1.0,
                 "villagers:Marco": 0.6,
+                "villagers:Mia": 0.6,
                 "villagers:1": 0.3
             }
         },
@@ -125,11 +129,12 @@
             ],
             "people": {
                 "villagers:Thespis": 1.0,
+                "villagers:Lily": 0.6,
+                "villagers:Luke": 0.7,
                 "villagers:1": 0.9,
                 "villagers:2": 0.8,
                 "villagers:3": 0.7,
-                "villagers:4": 0.6,
-                "villagers:5": 0.5
+                "travelers:1": 0.4
             }
         },
         {
@@ -158,7 +163,9 @@
             ],
             "people": {
                 "villagers:Leon": 1.0,
-                "villagers:1": 0.2
+                "villagers:Drake": 0.6,
+                "villagers:1": 0.2,
+                "travelers:1": 0.2
             }
         },
         {
@@ -274,6 +281,17 @@
                 "villagers:3": 0.7,
                 "villagers:4": 0.6,
                 "villagers:5": 0.5
+            }
+        },
+        {
+            "name": "Witch's Hut",
+            "description": "A small and cozy hut, hidden among the trees and vines of the forest.",
+            "details": "A small and cozy hut, hidden among the trees and vines of the forest, where Vera, the witch, lives and practices her magic. The hut is made of wood and stone, and has a thatched roof and a chimney. The hut has a door, a window, and a sign, carved with a pentagram and a broom. Inside the hut, there are various items and tools, such as a cauldron, a bookshelf, a table, a bed, and a fireplace. The hut is surrounded by a garden, where Vera grows and gathers various herbs and flowers, which she uses for her spells and potions.",
+            "aliases": [
+                "witch"
+            ],
+            "people": {
+                "villagers:Vera": 0.9
             }
         }
     ]

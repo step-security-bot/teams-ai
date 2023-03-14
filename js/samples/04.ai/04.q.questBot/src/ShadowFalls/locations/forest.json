@@ -1,0 +1,37 @@
+{
+    "name": "Shadowwood Forest",
+    "description": "The ancient forest of Shadowwood is a sprawling wilderness full of tall trees and thick foliage.",
+    "details": "The ancient forest of Shadowwood is a sprawling wilderness full of tall trees and thick foliage. The forest is home to many animals and plants, some of which have magical properties or are sacred to the Zalari. The forest also hides some of the Zalari's secrets, such as hidden shrines, stone carvings, and portals. The forest is a source of food, medicine, and materials for the villagers of Shadow Falls, who respect and protect the forest and its inhabitants. The forest is also a source of adventure and danger for the villagers, who often encounter wild beasts, traps, and puzzles in the forest. The forest is also a source of mystery and wonder for the villagers, who sometimes hear strange noises, see glowing lights, or feel a presence in the forest. To the north is the village of Shadow Falls, a friendly and welcoming place, where the villagers are descendants of the Zalari. To the south is the Cave of the Ancients, a hidden and treacherous place, filled with strange echoes and whispers, where the Zalari used to explore other dimensions, realities, and possibilities.",
+    "encounterChance": 0.4,
+    "mapPaths": "forest->N:village\nforest->N:village->W:lake->N:river\nforest->N:village->E:desert\nforest->N:village->N:mountains\nforest->N:village->E:desert->N:canyon\nforest->N:village->W:lake\nforest->N:village->W:lake->N:river->E:swamp\nforest->N:village->E:desert->E:oasis\nforest->N:village->W:lake->N:river->N:valley\nforest->N:village->W:lake->N:river->N:valley->E:temple\nforest->S:cave\nforest->N:village->E:desert->S:pyramids",
+    "people": {
+        "travelers:Gwen": 0.2,
+        "travelers:1": 0.2
+    },
+    "locations": [
+        {
+            "name": "Hunter's Cabin",
+            "description": "A cozy and rustic cabin, filled with hunting gear and animal trophies.",
+            "details": "A small and simple wooden cabin, hidden among the trees of the forest, where Jasper lives and stores his hunting equipment and trophies. The cabin has a fireplace, a bed, a table, a chair, and a chest, as well as a rack of bows, arrows, knives, and traps, and a wall of animal skins, skulls, and horns.",
+            "aliases": [
+                "cabin",
+                "jasper"
+            ],
+            "people": {
+                "travelers:Jasper": 0.9
+            }
+        },
+        {
+            "name": "Hidden Grove",
+            "description": "A secluded and serene spot in the forest. The grove is surrounded by tall and ancient trees, which form a natural barrier and a camouflage.",
+            "details": "A secluded and serene spot in the forest, where Freya lives and practices her druidic arts. The grove is surrounded by tall and ancient trees, which form a natural barrier and a camouflage. The grove has a small and clear pond, which reflects the sky and the moon, and provides water and life. The grove also has a stone circle, which marks the center and the sacred space of the grove, and serves as a place for rituals and meditation. The grove is home to many animals and plants, which Freya cares for and communicates with. The grove is a place of harmony and peace, where Freya feels connected to nature and its forces.",
+            "aliases": [
+                "grove",
+                "freya"
+            ],
+            "people": {
+                "travelers:Freya": 0.9
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "locations": [
+        {
+            "name": "Lighthouse",
+            "description": "A guiding and haunted structure on a rocky island in the lake.",
+            "details": "A tall and sturdy structure, the lighthouse stands on a rocky island in the middle of the lake, where it guides and warns the boats and ships that sail on the lake. The lighthouse is also a source of history and legend for the villagers of Shadow Falls, who tell stories of the lighthouse keeper, the ghostly light, and the hidden treasure in the lighthouse."
+        },
+        {
+            "name": "Fisherman's Wharf",
+            "description": "A bustling and lively place for fishing, trading, and gossiping.",
+            "details": "A busy and lively place, the fisherman's wharf is where the fishermen and traders dock their boats, sell their catch, and exchange goods and gossip. The wharf is also a source of food and commerce for the villagers of Shadow Falls, who buy fresh fish, salted meat, and exotic spices at the wharf, and trade their crops, crafts, and services at the wharf."
+        },
+        {
+            "name": "Logger's Camp",
+            "description": "A rough and noisy place for chopping, hauling, and making lumber.",
+            "details": "A rough and noisy place, the logger's camp is where the loggers and woodcutters chop down trees, haul logs, and make lumber. The camp is also a source of materials and industry for the villagers of Shadow Falls, who use the wood for building, crafting, and heating, and sell the lumber to other settlements and travelers."
+        },
+        {
+            "name": "Lake House",
+            "description": "A cozy and charming place for the mayor and his family, and for village events.",
+            "details": "A cozy and charming place, the lake house is where the mayor of Shadow Falls and his family live, overlooking the lake and the village. The lake house is also a source of leadership and hospitality for the villagers of Shadow Falls, who respect and trust the mayor, and often visit the lake house for meetings, parties, and ceremonies."
+        },
+        {
+            "name": "Shadow Falls Mill",
+            "description": "The main source of flour and lumber in the village.",
+            "details": "The main source of flour and lumber in the village, the Shadow Falls Mill is a noisy and productive place, where the villagers and the outsiders can see and buy various products and materials, such as wheat, corn, barley, wood, and charcoal. The miller, Gus, is a hardworking and honest man, who runs and operates his mill with efficiency and care. The mill has a waterwheel, a grinder, a saw, and a warehouse."
+        },
+        {
+            "name": "Willow Grove",
+            "description": "A peaceful and beautiful place for romance, moonlight, and willow sounds.",
+            "details": "A peaceful and beautiful place, the willow grove is a cluster of tall and graceful willow trees that grow by the shore of the lake, creating a natural canopy and a soothing sound. The willow grove is also a source of love and romance for the villagers of Shadow Falls, who often visit the willow grove to court, kiss, or propose, or to enjoy the moonlight, the breeze, and the stars."
+        },
+        {
+            "name": "Boathouse",
+            "description": "A simple and fun place for storing and renting boats and fishing gear.",
+            "details": "A small and simple place, the boathouse is where the villagers of Shadow Falls store and rent their boats, canoes, and rafts, as well as their fishing gear, nets, and hooks. The boathouse is also a source of adventure and fun for the villagers, who often use the boats to explore the lake, fish, or race, or to have picnics, parties, or games on the water."
+        },
+        {
+            "name": "Hot Springs",
+            "description": "A hidden and relaxing place for soaking, healing, and enjoying the view.",
+            "details": "A hidden and relaxing place, the hot springs are a series of natural pools of warm and mineral-rich water that bubble up from the ground near the edge of the lake. The hot springs are also a source of health and wellness for the villagers of Shadow Falls, who often visit the hot springs to soak, heal, or cleanse, or to enjoy the steam, the aroma, and the view."
+        },
+        {
+            "name": "Old Bridge",
+            "description": "A sturdy and ancient place for crossing the lake, with stories of troll, curse, and passage.",
+            "details": "A sturdy and ancient structure, the old bridge spans the narrowest part of the lake, connecting the two shores and allowing passage for travelers and traders. The old bridge is also a source of mystery and danger for the villagers of Shadow Falls, who tell stories of the troll, the curse, and the secret passage under the bridge."
+        },
+        {
+            "name": "Sunken Ship",
+            "description": "A tragic and fascinating place for diving, salvaging, and discovering.",
+            "details": "A tragic and fascinating place, the sunken ship is a large and old wooden ship that sank to the bottom of the lake many years ago, due to a storm, a fire, or a pirate attack. The ship is also a source of history and adventure for the villagers of Shadow Falls, who sometimes dive to the ship to explore, salvage, or loot, or to discover the ship's name, origin, or cargo."
+        }
+   ]
+}
+
+Generate 9 NPC's that work at the wharf. give them a name and a back story
+
+Possible NPC's:
+
+- Molly: A young and cheerful fishmonger, who sells fresh and smoked fish at her stall on the wharf. She inherited the business from her father, who died at sea, and she works hard to support her mother and siblings. She is friendly and chatty with the customers, and has a crush on a sailor who visits the wharf occasionally.
+- Samual: A gruff and experienced sailor, who captains a small trading vessel that docks at the wharf. He travels around the lake, buying and selling goods, and sometimes smuggling contraband. He is loyal and brave, but also greedy and reckless. He has a rivalry with another captain, who he suspects of stealing his cargo or sabotaging his ship.
+- Nina: A beautiful and exotic spice merchant, who comes from a faraway land and brings rare and expensive spices to the wharf. She has a tent where she displays her wares, and she attracts many customers with her charm and knowledge. She is secretive and mysterious, and some say she is involved in a cult or a spy network.
+- Hank: A burly and boisterous logger, who hauls logs from the camp to the wharf, and sells them to the miller or the shipbuilders. He is strong and skilled, but also loud and crude. He likes to drink and gamble at the tavern, and he often gets into fights with the fishermen or the sailors.
+- Lila: A shy and sweet baker, who delivers bread and pastries to the wharf, and sells them to the hungry workers and travelers. She learned to bake from her grandmother, who taught her the secrets of the dough and the oven. She is kind and generous, and she often gives away some of her goods to the poor or the children.
+- Jeb: A cunning and crafty fisherman, who catches and sells fish at the wharf, but also poaches and cheats. He uses illegal nets, baits, and traps, and he sometimes steals from other fishermen or sells rotten fish. He is sneaky and sly, and he knows how to avoid or bribe the authorities. He has a hidden stash of gold and jewels in his boat.
+- Zane: A daring and adventurous diver, who explores the sunken ship and other underwater secrets at the lake. He has a diving suit, a harpoon, and a lantern, and he often brings back valuable or curious items from his dives. He is fearless and curious, but also reckless and greedy. He has a debt to a loan shark, who threatens to take his equipment or his life.
+- Remy: A skilled and reliable boatwright, who repairs boats, nets, and fishing related equipment at the wharf. She has a workshop where she keeps her tools, materials, and spare parts, and she can fix anything from a leaky hull to a broken mast. She is friendly and helpful, but also proud and stubborn.
+- Oscar: A handsome and charismatic captain, who commands a larger and faster ship than Samual, and who competes with him for the best trade routes, deals, and customers. He is charming and smooth, but also arrogant and dishonest. He often flirts with Molly, which annoys Samual, and he sometimes undercuts or outbids him for goods, which angers Samual.
+
+Generate 6 NPC's that work at the Loggers Camp. give them a name and a back story
+
+Possible NPC's:
+
+- Clara: A tough and smart forewoman, who oversees the loggers and woodcutters at the camp. She assigns tasks, monitors progress, and resolves conflicts. She is respected and feared by the workers, who know she is fair and firm. She has a scar on her face from a logging accident, and she carries a whistle and a hatchet.
+- Bruno: A loyal and friendly logger, who works with Hank to haul logs from the camp to the wharf. He is strong and hardworking, but also gentle and kind. He likes to sing and joke while he works, and he often helps out the other workers or the villagers. He has a pet dog, who follows him everywhere.
+- Nell: A clever and resourceful woodcutter, who chops down trees, branches, and firewood at the camp. She has a knack for finding the best and most suitable trees, and she uses a sharp and sturdy axe. She is independent and adventurous, and she often explores the woods or the lake. She has a secret crush on Zane, the diver.
+- Lars: A grumpy and greedy sawyer, who operates the saw at the camp, and cuts the logs into lumber. He has a noisy and dangerous machine, which he guards and maintains with care. He is rude and stingy, and he often complains or argues with the other workers or the customers. He has a hidden stash of coins and valuables in his cabin.
+- Ivy: A young and curious apprentice, who learns the trade of logging and woodcutting from Clara and the other workers. She is eager and enthusiastic, but also clumsy and naive. She often makes mistakes or causes trouble, but she also has a good heart and a bright mind. She has a talent for carving and whittling wood.
+- Troy: A fierce and wild hunter, who hunts animals, birds, and monsters in the woods around the camp. He has a bow, a knife, and a trap, and he often brings back skins, meat, and trophies from his hunts. He is brave and skilled, but also reckless and violent. He has a rivalry with Jeb, the fisherman, who he accuses of poaching or stealing his game.

@@ -1,14 +1,86 @@
 {
     "locations": [
         {
+            "name": "Lighthouse",
+            "description": "A guiding and haunted structure on a rocky island in the lake.",
+            "details": "A tall and sturdy structure, the lighthouse stands on a rocky island in the middle of the lake, where it guides and warns the boats and ships that sail on the lake. The lighthouse is also a source of history and legend for the villagers of Shadow Falls, who tell stories of the lighthouse keeper, the ghostly light, and the hidden treasure in the lighthouse.",
+            "people": {
+                "fixed:Edmund": 1.0,
+                "travelers:1": 0.01
+            }
+        },
+        {
+            "name": "Fisherman's Wharf",
+            "description": "A bustling and lively place for fishing, trading, and gossiping.",
+            "details": "A busy and lively place, the fisherman's wharf is where the fishermen and traders dock their boats, sell their catch, and exchange goods and gossip. The wharf is also a source of food and commerce for the villagers of Shadow Falls, who buy fresh fish, salted meat, and exotic spices at the wharf, and trade their crops, crafts, and services at the wharf.",
+            "people": {
+                "lake:Molly": 0.8,
+                "lake:Rain": 0.8,
+                "lake:Remy": 0.8,
+                "lake:Samuel": 0.6,
+                "lake:Hank": 0.6,
+                "lake:Jeb": 0.6,
+                "lake:Zane": 0.6,
+                "lake:Oscar": 0.6,
+                "lake:Bruno": 0.4,
+                "lake:Nell": 0.3,
+                "lake:1": 0.2,
+                "travelers:1": 0.2,
+                "villagers:1": 0.2
+            }
+        },
+        {
+            "name": "Logger's Camp",
+            "description": "A rough and noisy place for chopping, hauling, and making lumber.",
+            "details": "A rough and noisy place, the logger's camp is where the loggers and woodcutters chop down trees, haul logs, and make lumber. The camp is also a source of materials and industry for the villagers of Shadow Falls, who use the wood for building, crafting, and heating, and sell the lumber to other settlements and travelers.",
+            "people": {
+                "lake:Clara": 0.9,
+                "lake:Lars": 0.8,
+                "lake:Ivy": 0.8,
+                "lake:Troy": 0.8,
+                "lake:Nell": 0.7,
+                "lake:Bruno": 0.6,
+                "lake:Hank": 0.4,
+                "lake:Zane": 0.3,
+                "lake:1": 0.02,
+                "travelers:1": 0.02,
+                "villagers:1": 0.002
+            }
+        },
+        {
+            "name": "Lake House",
+            "description": "A cozy and charming place for the mayor and his family, and for village events.",
+            "details": "A cozy and charming place, the lake house is where the mayor of Shadow Falls and his family live, overlooking the lake and the village. The lake house is also a source of leadership and hospitality for the villagers of Shadow Falls, who respect and trust the mayor, and often visit the lake house for meetings, parties, and ceremonies."
+        },
+        {
             "name": "Shadow Falls Mill",
             "description": "The main source of flour and lumber in the village.",
-            "details": "The main source of flour and lumber in the village, the Shadow Falls Mill is a noisy and productive place, where the villagers and the outsiders can see and buy various products and materials, such as wheat, corn, barley, wood, and charcoal. The miller, Gus, is a hardworking and honest man, who runs and operates his mill with efficiency and care. The mill has a waterwheel, a grinder, a saw, and a warehouse.",
-            "aliases": [
-                "mill",
-                "lumber",
-                "flour"
-            ]
+            "details": "The main source of flour and lumber in the village, the Shadow Falls Mill is a noisy and productive place, where the villagers and the outsiders can see and buy various products and materials, such as wheat, corn, barley, wood, and charcoal. The miller, Gus, is a hardworking and honest man, who runs and operates his mill with efficiency and care. The mill has a waterwheel, a grinder, a saw, and a warehouse."
+        },
+        {
+            "name": "Willow Grove",
+            "description": "A peaceful and beautiful place for romance, moonlight, and willow sounds.",
+            "details": "A peaceful and beautiful place, the willow grove is a cluster of tall and graceful willow trees that grow by the shore of the lake, creating a natural canopy and a soothing sound. The willow grove is also a source of love and romance for the villagers of Shadow Falls, who often visit the willow grove to court, kiss, or propose, or to enjoy the moonlight, the breeze, and the stars."
+        },
+        {
+            "name": "Boathouse",
+            "description": "A simple and fun place for storing and renting boats and fishing gear.",
+            "details": "A small and simple place, the boathouse is where the villagers of Shadow Falls store and rent their boats, canoes, and rafts, as well as their fishing gear, nets, and hooks. The boathouse is also a source of adventure and fun for the villagers, who often use the boats to explore the lake, fish, or race, or to have picnics, parties, or games on the water."
+        },
+        {
+            "name": "Hot Springs",
+            "description": "A hidden and relaxing place for soaking, healing, and enjoying the view.",
+            "details": "A hidden and relaxing place, the hot springs are a series of natural pools of warm and mineral-rich water that bubble up from the ground near the edge of the lake. The hot springs are also a source of health and wellness for the villagers of Shadow Falls, who often visit the hot springs to soak, heal, or cleanse, or to enjoy the steam, the aroma, and the view."
+        },
+        {
+            "name": "Old Bridge",
+            "description": "A sturdy and ancient place for crossing the lake, with stories of troll, curse, and passage.",
+            "details": "A sturdy and ancient structure, the old bridge spans the narrowest part of the lake, connecting the two shores and allowing passage for travelers and traders. The old bridge is also a source of mystery and danger for the villagers of Shadow Falls, who tell stories of the troll, the curse, and the secret passage under the bridge."
+        },
+        {
+            "name": "Sunken Ship",
+            "description": "A tragic and fascinating place for diving, salvaging, and discovering.",
+            "details": "A tragic and fascinating place, the sunken ship is a large and old wooden ship that sank to the bottom of the lake many years ago, due to a storm, a fire, or a pirate attack. The ship is also a source of history and adventure for the villagers of Shadow Falls, who sometimes dive to the ship to explore, salvage, or loot, or to discover the ship's name, origin, or cargo."
         }
-    ]
+   ]
 }

@@ -1,0 +1,81 @@
+{
+    "locations": [
+        {
+            "name": "Raging Rapids",
+            "description": "A thrilling and dangerous section of the river where the water flows fast and furious.",
+            "details": "A section of the river where the water flows fast and furious, creating white foam and splashes. The rapids are a source of thrill and danger for the villagers of Shadow Falls, who sometimes raft or kayak through them, but also risk capsizing, drowning, or crashing into rocks. The rapids are also a source of challenge and skill for the Zalari, who used them to train their warriors, scouts, and engineers, some of whom still left their marks or tools along the riverbanks.",
+            "people": {
+                "travelers:1": 0.02,
+                "villagers:1": 0.002
+            }
+        },
+        {
+            "name": "Shadow Falls River Ferry",
+            "description": "A small and simple boat that carries people and goods across the river, operated by a friendly and helpful ferryman.",
+            "details": "A small and simple boat that carries people and goods across the river, operated by a friendly and helpful ferryman. The ferry is a source of convenience and connection for the villagers of Shadow Falls, who use it to cross the river, transport goods, or visit friends. The ferry is also a source of service and generosity for the Zalari, who used it to help their neighbors, strangers, or allies, some of whom still remember or honor their kindness or deeds.",
+            "people": {
+                "travelers:Jaro": 1.0,
+                "travelers:Lira": 0.7,
+                "travelers:1": 0.4,
+                "travelers:2": 0.1,
+                "villagers:1": 0.05
+            }
+        },
+        {
+            "name": "Shadow Falls",
+            "description": "The river's origin, a majestic cascade from the mountain peaks, with a rainbow and a mist. Awe-inspiring, powerful, and magical for the villagers and the Zalari.",
+            "details": "A breathtaking sight where the river begins its journey, cascading from the Shadow Mountains in a majestic plunge, creating a rainbow and a mist. Shadow Falls is a source of awe and inspiration for the villagers of Shadow Falls, who named their village after the falls, admire the view, take pictures, or make wishes. Shadow Falls is also a source of power and magic for the Zalari, who used the falls to create a water wheel, a generator, or a portal, some of which still function or can be activated by the curious or the brave.",
+            "people": {
+                "travelers:1": 0.02,
+                "villagers:1": 0.002
+            }
+        },
+        {
+            "name": "River Island",
+            "description": "A small and secluded patch of land in the middle of the river, accessible by boat or swimming.",
+            "details": "A small and secluded patch of land in the middle of the river, accessible by boat or swimming. The island is a source of peace and privacy for the villagers of Shadow Falls, who use it to relax, meditate, or romance. The island is also a source of mystery and intrigue for the Zalari, who used it to hide a treasure, a secret, or a clue, some of which still are buried or concealed by the island's vegetation or wildlife.",
+            "people": {
+                "travelers:1": 0.02,
+                "villagers:1": 0.002
+            }
+        },
+        {
+            "name": "Shadow Falls Dam",
+            "description": "A massive and impressive structure that blocks the river, creating a reservoir and a canal.",
+            "details": "A massive and impressive structure that blocks the river, creating a reservoir and a canal. The dam is a source of irrigation and control for the villagers of Shadow Falls, who use it to water their crops, regulate the river flow, or prevent floods. The dam is also a source of engineering and innovation for the Zalari, who built it with their advanced technology, knowledge, and skill, some of which still can be seen or learned by the villagers or explorers.",
+            "people": {
+                "travelers:Rina": 1.0,
+                "travelers:Kato": 0.7,
+                "travelers:1": 0.02,
+                "villagers:1": 0.002
+            }
+        },
+        {
+            "name": "Gorge of Shadows",
+            "description": "A narrow and deep passage where the river cuts through the rock, creating a dark and eerie atmosphere.",
+            "details": "A narrow and deep passage where the river cuts through the rock, creating a dark and eerie atmosphere. The gorge is a source of fear and danger for the villagers of Shadow Falls, who avoid it as much as possible, but sometimes have to pass through it to reach the other side, but often face the shadows, the echoes, and the creatures in the gorge. The gorge is also a source of discovery and adventure for the Zalari, who used it to explore the depths, the secrets, and the wonders of the river, some of which still can be found or experienced by the daring or the lucky.",
+            "people": {
+                "travelers:1": 0.02,
+                "villagers:1": 0.002
+            }
+       },
+        {
+            "name": "Tranquility Lagoon",
+            "description": "A calm and clear pool where the river widens and slows down, creating a tranquil and refreshing spot.",
+            "details": "A calm and clear pool where the river widens and slows down, creating a tranquil and refreshing spot. The lagoon is a source of leisure and fun for the villagers of Shadow Falls, who enjoy swimming, fishing, or picnicking in the lagoon, or playing, chatting, or singing by the lagoon. The lagoon is also a source of beauty and art for the Zalari, who used it to reflect their music, poetry, and painting, some of which still can be heard or seen by the villagers or visitors.",
+            "people": {
+                "travelers:1": 0.02,
+                "villagers:1": 0.002
+            }
+       },
+        {
+            "name": "Ancient Water Wheel",
+            "description": "A large and rusty metal wheel that spins with the force of the water descending from Shadow Falls.",
+            "details": "A large and rusty metal wheel that spins with the force of the water descending from Shadow Falls, creating a humming noise and sparks. The water wheel is a source of curiosity and danger for the villagers of Shadow Falls, who sometimes try to climb, fix, or activate it, but also risk falling, electrocuting, or exploding. The water wheel is also a source of magic and technology for the Zalari, who used it to power their devices, machines, and portals, some of which still are connected or can be accessed by the water wheel.",
+            "people": {
+                "travelers:1": 0.02,
+                "villagers:1": 0.002
+            }
+       }
+  ]
+}
